@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @gitalove. I'm 40 years old author and newbie-code student.
-- 👀 I’m interested in flutter but first need to learn basics of coding then I want to build my own apps. 
+- 👋 Hi, I’m @gitalove. I'm 41 years old author and newbie-code student.
+- 👀 I’m interested in front-end developing but first need to learn basics of coding then I want to build my own projects. 
 - 🌱 I’m currently learning html and css.
 - I'm an autodidact person.
 - I'm an ex-copywriter.
 - I'm cat lover.
 - I'm world citizen.
-- I'm liberter.
+- I'm anarcho-feminist.
 
 <!---
 gitalove/gitalove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
