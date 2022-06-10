@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitalove. I'm 41 years old author and newbie-code student.
 - 👀 I’m interested in front-end developing but first need to learn basics of coding then I want to build my own projects. 
-- 🌱 I’m currently learning html and css.
+- 🌱 I’m currently learning html,css and javascript.
 - I'm an autodidact person.
 - I'm an ex-copywriter.
 - I'm cat lover.
